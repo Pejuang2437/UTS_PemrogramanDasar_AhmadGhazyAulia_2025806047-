@@ -1,0 +1,25 @@
+=======================================================
+           LAPORAN ANALISIS TEKS OTOMATIS
+=======================================================
+
+📄 STATISTIK UMUM
+  Jumlah baris : 13
+  Jumlah kata  : 140
+  Jumlah vokal : 362
+  Jumlah konsonan : 567
+
+🏆 5 KATA PALING SERING MUNCUL
+  1. python (9x)
+  2. pemrograman (6x)
+  3. data (6x)
+  4. teknologi (3x)
+  5. banyak (3x)
+
+📊 GRAFIK FREKUENSI KATA
+  python          ██████████████████████████████ (9)
+  pemrograman     ████████████████████ (6)
+  data            ████████████████████ (6)
+  teknologi       ██████████ (3)
+  banyak          ██████████ (3)
+
+=======================================================
